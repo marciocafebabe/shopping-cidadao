@@ -1,2 +1,2 @@
-# CitizenShopping
- Program to practice Arrays and repetition structures
+# shopping-cidadao
+ Program to practice Arrays and repetition structures.
